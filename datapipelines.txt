@@ -1,0 +1,4 @@
+https://www.oreilly.com/ideas/three-best-practices-for-building-successful-data-pipelines
+https://www.alooma.com/blog/what-is-a-data-pipeline
+https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/
+https://www.udemy.com/course/hadoop-mapreduce-in-depth-a-real-time-course-on-mapreduce/
